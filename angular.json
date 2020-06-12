@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NeonButton"
+    }
+  },
+  "defaultProject": "NeonButton",
+  "cli": {
+    "analytics": false
+  }
 }
